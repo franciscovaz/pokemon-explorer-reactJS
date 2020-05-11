@@ -48,7 +48,7 @@ const Dashboard: React.FC = () => {
     event.preventDefault();
 
     if (!newPoke) {
-      setInputError('Digite o nome do pokemon.');
+      setInputError('Digite o nome do pokemon');
       return;
     }
 
@@ -62,7 +62,7 @@ const Dashboard: React.FC = () => {
       setInputError('');
       setNewPoke('');
     } catch (err) {
-      setInputError('Erro na busca do pokemon.');
+      setInputError('Erro na busca do pokemon');
     }
   }
   return (
