@@ -8,7 +8,7 @@ import PokeInfo from '../pages/PokeInfo';
 const Routes: React.FC = () => (
   <Switch>
     <Route path="/" exact component={Dashboard} />
-    <Route path="/info" component={PokeInfo} />
+    <Route path="/info/:pokemon_name" component={PokeInfo} />
   </Switch>
 );
 
