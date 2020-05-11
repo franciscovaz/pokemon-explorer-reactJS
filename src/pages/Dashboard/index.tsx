@@ -40,8 +40,6 @@ const Dashboard: React.FC = () => {
       '@PokemonExplorer: pokemons',
       JSON.stringify(pokemons),
     );
-
-    console.log(pokemons[0].types[0].type.name);
   }, [pokemons]);
 
   async function handleAddPokemon(
