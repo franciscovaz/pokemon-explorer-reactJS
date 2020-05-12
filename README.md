@@ -6,9 +6,7 @@
 
 <p align="center">
   <a href="#rocket-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#construction_worker-tools">Some uses</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#camera">DEMO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera-some-shots">DEMO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-run-the-project">Run the project</a>
 </p>
 
@@ -18,6 +16,7 @@ Application to seach for pokémons and some information about.
 
 Developed using ReactJS with:
 
+- Typescript
 - Styled-Components
 - EsLint and Prettier to standardize the code
 - Axios
@@ -35,12 +34,11 @@ Developed using ReactJS with:
 
 ## :rocket: Run the project
 
-<p>
-  To run the project, go to project folder and:
-  - $yarn
-  - $yarn start
+To run the project, go to project folder and: <br/>
+
+- yarn
+- yarn start
   <br />
-  To build, for production:
-  - $yarn
-  - $yarn build
-</p>
+  To build, for production: <br/>
+- yarn
+- yarn build
