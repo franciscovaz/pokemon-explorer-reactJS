@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#rocket-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#camera-some-shots">DEMO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera-demo-gif">DEMO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-run-the-project">Run the project</a>
 </p>
 
@@ -39,6 +39,8 @@ To run the project, go to project folder and: <br/>
 - yarn
 - yarn start
   <br />
-  To build, for production: <br/>
+
+To build, for production: <br/>
+
 - yarn
 - yarn build
