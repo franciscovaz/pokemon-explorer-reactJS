@@ -1,5 +1,5 @@
 <h3 align="center">
-  NodeJS, ReactJS, React Mobile - Pokémon Explorer
+  ReactJS - Pokémon Explorer
 </h3>
 
 <blockquote align="center">“TO ACHIEVE WHAT OTHERS WONT, YOU HAVE TO DO WHAT OTHERS DON'T!”</blockquote>
